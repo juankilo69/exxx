@@ -1,0 +1,17 @@
+div{
+    display: flex;
+    flex-direction: column;
+}
+.objetos{
+    width: 400px;
+    height: 300px;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    margin: 20px auto;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+}
